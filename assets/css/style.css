@@ -1104,3 +1104,19 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+/*--------------------------------------------------------------
+# custom button
+--------------------------------------------------------------*/
+
+.custom-btn {
+  background-color: lightblue !important;
+  border-color: lightblue !important;
+  color: #fff !important; /* This changes the text color */
+}
+
+.custom-btn:hover, .custom-btn:focus {
+  background-color: blue !important;
+  border-color: blue !important;
+  color: #fff !important; /* This changes the text color */
+}
